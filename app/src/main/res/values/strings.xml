@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unsplash Demo</string>
+
+    <string name="btn1">Search photos</string>
+    <string name="btn2">Get random photo</string>
+    <string name="btn3">Dynamic Palette</string>
+</resources>
